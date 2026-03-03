@@ -1,6 +1,6 @@
 const Home = ()=>{
     return <>
-        <h1>Teste</h1> 
+        <h1>"Aprender a programar é aprender a solucionar problemas."</h1> 
     </>
 }
 
